@@ -1,2 +1,0 @@
-Airbnb Problem statement:
-                   An online platform (Airbnb) aims to understand user behavior, engagement patterns and geographic distribution to enhance user experience, improve engagement, and tailor services to various demographics. The platform collects extensive data on user activates, including session details and user demographics. The objective is to analyze this data to generate actionable insights that will inform strategic decision for platform improvement.
