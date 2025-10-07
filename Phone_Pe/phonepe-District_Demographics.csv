@@ -1,0 +1,743 @@
+﻿State,District,Headquarters,Population,Area (sq km),Density,Code,Alternate Name
+Andhra Pradesh,Anantapur,Anantapur,"40,83,315","19,130",213,AP01,Anantapur
+Andhra Pradesh,Chittoor,Chittoor,"41,70,468","15,152",275,AP02,Chittoor
+Andhra Pradesh,East Godavari,Kakinada,"51,51,549","10,807",477,AP03,East Godavari
+Andhra Pradesh,Guntur,Guntur,"48,89,230","11,391",429,AP04,Guntur
+Andhra Pradesh,YSR,Kadapa,"28,84,524","15,359",188,AP13,YSR
+Andhra Pradesh,Krishna,Machilipatnam,"45,29,009","8,727",519,AP05,Krishna
+Andhra Pradesh,Kurnool,Kurnool,"40,46,601","17,658",229,AP06,Kurnool
+Andhra Pradesh,Prakasam,Ongole,"33,92,764","17,626",192,AP07,Prakasam
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Nellore,"29,66,082","13,076",227,AP08,Spsr Nellore
+Andhra Pradesh,Srikakulam,Srikakulam,"26,99,471","5,837",462,AP09,Srikakulam
+Andhra Pradesh,Visakhapatnam,Visakhapatnam,"42,88,113","11,161",384,AP10,Visakhapatnam
+Andhra Pradesh,Vizianagaram,Vizianagaram,"23,42,868","6,539",358,AP11,Vizianagaram
+Andhra Pradesh,West Godavari,Eluru,"39,34,782","7,742",490,AP12,West Godavari
+Arunachal Pradesh,Anjaw,Hawai,"21,089","6,190",3,AR01,Anjaw
+Arunachal Pradesh,Changlang,Changlang,"1,47,951","4,662",32,AR02,Changlang
+Arunachal Pradesh,East Kameng,Seppa,"78,413","4,134",19,AR03,East Kameng
+Arunachal Pradesh,East Siang,Pasighat,"99,019","3,603",27,AR04,East Siang
+Arunachal Pradesh,Kamle,Raga,"22,256",200,111,AR05,Kamle
+Arunachal Pradesh,Kra Daadi,Jamin,,,,AR06,Kra Daadi
+Arunachal Pradesh,Kurung Kumey,Koloriang,"89,717","6,040",15,AR07,Kurung Kumey
+Arunachal Pradesh,Lepa Rada,Basar,,,,AR08,Lepa Rada
+Arunachal Pradesh,Lohit,Tezu,"1,45,538","2,402",61,AR09,Lohit
+Arunachal Pradesh,Longding,Longding,"60,000","1,200",50,AR10,Longding
+Arunachal Pradesh,Lower Dibang Valley,Roing,"53,986","3,900",14,AR11,Lower Dibang Valley
+Arunachal Pradesh,Lower Siang,Likabali,,,,AR12,Lower Siang
+Arunachal Pradesh,Lower Subansiri,Ziro,"82,839","3,508",24,AR13,Lower Subansiri
+Arunachal Pradesh,Namsai,Namsai,"95,950","1,587",60,AR14,Namsai
+Arunachal Pradesh,Pakke-Kessang,Lemmi,,,,AR15,Pakke Kessang
+Arunachal Pradesh,Papum Pare,Yupia,"1,76,385","2,875",61,AR16,Papum Pare
+Arunachal Pradesh,Shi Yomi,Tato,"13,310","2,875",5,AR17,Shi Yomi
+Arunachal Pradesh,Siang,Pangin,"31,920","2,919",11,AR18,Siang
+Arunachal Pradesh,Tawang,Tawang,"49,950","2,085",24,AR19,Tawang
+Arunachal Pradesh,Tirap,Khonsa,"1,11,997","2,362",47,AR20,Tirap
+Arunachal Pradesh,Upper Dibang Valley,Anini,"7,948","9,129",1,AR21,Dibang Valley
+Arunachal Pradesh,Upper Siang,Yingkiong,"35,289","6,188",6,AR22,Upper Siang
+Arunachal Pradesh,Upper Subansiri,Daporijo,"83,205","7,032",12,AR23,Upper Subansiri
+Arunachal Pradesh,West Kameng,Bomdila,"87,013","7,422",12,AR24,West Kameng
+Arunachal Pradesh,West Siang,Along,"1,12,272","8,325",13,AR25,West Siang
+Assam,Baksa,Mushalpur,"9,53,773","2,008",475,AS02,Baksa
+Assam,Bajali,Pathsala,"2,53,816",,,AS01,Bajali
+Assam,Barpeta,Barpeta,"16,93,622","3,245",520,AS03,Barpeta
+Assam,Bishwanath,Biswanath Chariali,"6,12,491","1,100",560,AS04,Biswanath
+Assam,Bongaigaon,Bongaigaon,"7,32,639","1,724",425,AS05,Bongaigaon
+Assam,Cachar,Silchar,"17,36,319","3,786",459,AS06,Cachar
+Assam,Charaideo,Sonari,"4,71,418","1,069",440,AS07,Charaideo
+Assam,Chirang,Kajalgaon,"4,81,818","1,975",244,AS08,Chirang
+Assam,Darrang,Mangaldoi,"9,08,090","1,849",491,AS09,Darrang
+Assam,Dhemaji,Dhemaji,"6,88,077","3,237",213,AS10,Dhemaji
+Assam,Dhubri,Dhubri,"19,48,632","2,838",687,AS11,Dhubri
+Assam,Dibrugarh,Dibrugarh,"13,27,748","3,381",393,AS12,Dibrugarh
+Assam,Dima Hasao,Haflong,"2,13,529","4,888",44,AS13,Dima Hasao
+Assam,Goalpara,Goalpara,"10,08,959","1,824",553,AS14,Goalpara
+Assam,Golaghat,Golaghat,"10,58,674","3,502",302,AS15,Golaghat
+Assam,Hailakandi,Hailakandi,"6,59,260","1,327",497,AS16,Hailakandi
+Assam,Hojai,Hojai,"9,31,218",,,AS17,Hojai
+Assam,Jorhat,Jorhat,"10,91,295","2,851",383,AS18,Jorhat
+Assam,Kamrup,Amingaon,"15,17,202","3,480",436,AS19,Kamrup
+Assam,Kamrup Metropolitan,Guwahati,"12,60,419",627,"2,010",AS20,Kamrup Metropolitan
+Assam,Karbi Anglong,Diphu,"9,65,280","10,434",93,AS21,Karbi Anglong
+Assam,Karimganj,Karimganj,"12,17,002","1,809",673,AS22,Karimganj
+Assam,Kokrajhar,Kokrajhar,"8,86,999","3,129",283,AS23,Kokrajhar
+Assam,Lakhimpur,North Lakhimpur,"10,40,644","2,277",457,AS24,Lakhimpur
+Assam,Majuli,Garamur,"1,67,304",880,300,AS25,Majuli
+Assam,Morigaon,Marigaon,"9,57,853","1,704",562,AS26,Marigaon
+Assam,Nagaon,Nagaon,"28,26,006","3,831",738,AS27,Nagaon
+Assam,Nalbari,Nalbari,"7,69,919","1,009",763,AS28,Nalbari
+Assam,Sivasagar,Sibsagar,"11,50,253","2,668",431,AS29,Sivasagar
+Assam,South Salmara,Hatsingimari,"5,55,114",568,980,AS31,South Salmara Mancachar
+Assam,Sonitpur,Tezpur,"19,25,975","5,324",362,AS30,Sonitpur
+Assam,Tinsukia,Tinsukia,"13,16,948","3,790",347,AS32,Tinsukia
+Assam,Udalguri,Udalguri,"8,32,769","1,676",497,AS33,Udalguri
+Assam,West Karbi Anglong,Hamren,"3,00,320","3,035",99,AS34,West Karbi Anglong
+Bihar,Araria,Araria,"28,06,200","2,829",992,BR01,Araria
+Bihar,Arwal,Arwal,"7,00,843",638,"1,098",BR02,Arwal
+Bihar,Aurangabad,Aurangabad,"25,11,243","3,303",760,BR03,Aurangabad
+Bihar,Banka,Banka,"20,29,339","3,018",672,BR04,Banka
+Bihar,Begusarai,Begusarai,"29,54,367","1,917","1,540",BR05,Begusarai
+Bihar,Bhagalpur,Bhagalpur,"30,32,226","2,569","1,180",BR06,Bhagalpur
+Bihar,Bhojpur,Arrah,"27,20,155","2,473","1,136",BR07,Bhojpur
+Bihar,Buxar,Buxar,"17,07,643","1,624","1,003",BR08,Buxar
+Bihar,Darbhanga,Darbhanga,"39,21,971","2,278","1,721",BR09,Darbhanga
+Bihar,East Champaran,Motihari,"50,82,868","3,969","1,281",BR10,Purbi Champaran
+Bihar,Gaya,Gaya,"43,79,383","4,978",880,BR11,Gaya
+Bihar,Gopalganj,Gopalganj,"25,58,037","2,033","1,258",BR12,Gopalganj
+Bihar,Jamui,Jamui,"17,56,078","3,099",567,BR13,Jamui
+Bihar,Jehanabad,Jehanabad,"11,24,176","1,569","1,206",BR14,Jehanabad
+Bihar,Kaimur,Bhabua,"16,26,900","3,363",488,BR15,Kaimur Bhabua
+Bihar,Katihar,Katihar,"30,68,149","3,056","1,004",BR16,Katihar
+Bihar,Khagaria,Khagaria,"16,57,599","1,486","1,115",BR17,Khagaria
+Bihar,Kishanganj,Kishanganj,"16,90,948","1,884",898,BR18,Kishanganj
+Bihar,Lakhisarai,Lakhisarai,"10,00,717","1,229",815,BR19,Lakhisarai
+Bihar,Madhepura,Madhepura,"19,94,618","1,787","1,116",BR20,Madhepura
+Bihar,Madhubani,Madhubani,"44,76,044","3,501","1,279",BR21,Madhubani
+Bihar,Munger,Munger,"13,59,054","1,419",958,BR22,Munger
+Bihar,Muzaffarpur,Muzaffarpur,"47,78,610","3,173","1,506",BR23,Muzaffarpur
+Bihar,Nalanda,Bihar Sharif,"28,72,523","2,354","1,220",BR24,Nalanda
+Bihar,Nawada,Nawada,"22,16,653","2,492",889,BR25,Nawada
+Bihar,Patna,Patna,"57,72,804","3,202","1,803",BR26,Patna
+Bihar,Purnia,Purnia,"32,73,127","3,228","1,014",BR27,Purnia
+Bihar,Rohtas,Sasaram,"29,62,593","3,850",763,BR28,Rohtas
+Bihar,Saharsa,Saharsa,"18,97,102","1,702","1,125",BR29,Saharsa
+Bihar,Samastipur,Samastipur,"42,54,782","2,905","1,465",BR30,Samastipur
+Bihar,Saran,Chhapra,"39,43,098","2,641","1,493",BR31,Saran
+Bihar,Sheikhpura,Sheikhpura,"6,34,927",689,922,BR32,Sheikhpura
+Bihar,Sheohar,Sheohar,"6,56,916",443,"1,882",BR33,Sheohar
+Bihar,Sitamarhi,Sitamarhi,"34,19,622","2,199","1,491",BR34,Sitamarhi
+Bihar,Siwan,Siwan,"33,18,176","2,219","1,495",BR35,Siwan
+Bihar,Supaul,Supaul,"22,28,397","2,410",919,BR36,Supaul
+Bihar,Vaishali,Hajipur,"34,95,021","2,036","1,717",BR37,Vaishali
+Bihar,West Champaran,Bettiah,"39,35,042","5,229",753,BR38,Pashchim Champaran
+Chhattisgarh,Balod,Balod,"8,26,165","3,527",234,CG01,Balod
+Chhattisgarh,Baloda Bazar,Baloda Bazar,"13,05,343","4,748",275,CG02,Baloda Bazar
+Chhattisgarh,Balrampur,Balrampur,"7,30,491","3,806",190,CG03,Balrampur
+Chhattisgarh,Bastar,Jagdalpur,"8,34,873","4,030",210,CG04,Bastar
+Chhattisgarh,Bemetara,Bemetara,"7,95,759","2,855",270,CG05,Bemetara
+Chhattisgarh,Bijapur,Bijapur,"2,29,832","6,562",35,CG06,Bijapur
+Chhattisgarh,Bilaspur,Bilaspur,"19,61,922","3,508",460,CG07,Bilaspur
+Chhattisgarh,Dantewada,Dantewada,"5,33,638","3,411",59,CG08,Dantewada
+Chhattisgarh,Dhamtari,Dhamtari,"7,99,199","2,029",394,CG09,Dhamtari
+Chhattisgarh,Durg,Durg,"17,21,726","2,238",770,CG10,Durg
+Chhattisgarh,Gariaband,Gariaband,"5,97,653","5,823",103,CG11,Gariyaband
+Chhattisgarh,Gaurella-Pendra-Marwahi,Gaurella,"3,36,420","2,307",150,CG12,Gaurella-Pendra-Marwahi
+Chhattisgarh,Janjgir-Champa,Naila Janjgir,"16,20,632","3,848",421,CG13,Janjgir Champa
+Chhattisgarh,Jashpur,Jashpur Nagar,"8,52,043","5,825",146,CG14,Jashpur
+Chhattisgarh,Kabirdham,Kawardha,"5,84,667","4,237",195,CG15,Kabirdham
+Chhattisgarh,Kanker,Kanker,"7,48,593","6,513",115,CG16,Kanker
+Chhattisgarh,Kondagaon,Kondagaon,"5,78,326","7,768",74,CG17,Kondagaon
+Chhattisgarh,Korba,Korba,"12,06,563","6,615",183,CG18,Korba
+Chhattisgarh,Koriya,Baikunthpur,"6,59,039","6,578",100,CG19,Korea
+Chhattisgarh,Mahasamund,Mahasamund,"10,32,275","4,779",216,CG20,Mahasamund
+Chhattisgarh,Mungeli,Mungeli,"7,01,707","2,750",255,CG21,Mungeli
+Chhattisgarh,Narayanpur,Narayanpur,"1,40,206","6,640",20,CG22,Narayanpur
+Chhattisgarh,Raigarh,Raigarh,"14,93,627","7,068",211,CG23,Raigarh
+Chhattisgarh,Raipur,Raipur,"21,60,876","2,892",750,CG24,Raipur
+Chhattisgarh,Rajnandgaon,Rajnandgaon,"15,37,520","8,062",191,CG25,Rajnandgaon
+Chhattisgarh,Sukma,Sukma,"2,50,159","5,897",42,CG26,Sukma
+Chhattisgarh,Surajpur,Surajpur,"7,89,043","2,787",280,CG27,Surajpur
+Chhattisgarh,Surguja,Ambikapur,"8,39,661","3,265",150,CG28,Surguja
+Goa,North Goa,Panaji,"8,17,761","1,736",471,GA01,North Goa
+Goa,South Goa,Margao,"6,39,962","1,966",326,GA02,South Goa
+Gujarat,Ahmedabad,Ahmedabad,"72,08,200","8,707",890,GJ01,Ahmadabad
+Gujarat,Amreli,Amreli,"15,13,614","6,760",205,GJ02,Amreli
+Gujarat,Anand,Anand,"20,90,276","2,942",711,GJ03,Anand
+Gujarat,Aravalli,Modasa,"10,51,746","3,217",327,GJ04,Aravallis
+Gujarat,Banaskantha,Palanpur,"31,16,045","12,703",290,GJ05,Banas Kantha
+Gujarat,Bharuch,Bharuch,"15,50,822","6,524",238,GJ06,Bharuch
+Gujarat,Bhavnagar,Bhavnagar,"28,77,961","11,155",288,GJ07,Bhavnagar
+Gujarat,Botad,Botad,"6,56,005","2,564",256,GJ08,Botad
+Gujarat,Chhota Udepur,Chhota Udepur,"10,71,831","3,237",331,GJ09,Chhotaudepur
+Gujarat,Dahod,Dahod,"21,26,558","3,642",582,GJ10,Dohad
+Gujarat,Dang,Ahwa,"2,26,769","1,764",129,GJ11,The Dangs
+Gujarat,Devbhoomi Dwarka,Khambhalia,"7,52,484","5,684",132,GJ12,Devbhumi Dwarka
+Gujarat,Gandhinagar,Gandhinagar,"13,87,478",649,660,GJ13,Gandhinagar
+Gujarat,Gir Somnath,Veraval,"12,17,477","3,754",324,GJ14,Gir Somnath
+Gujarat,Jamnagar,Jamnagar,"21,59,130","14,125",153,GJ15,Jamnagar
+Gujarat,Junagadh,Junagadh,"27,42,291","8,839",310,GJ16,Junagadh
+Gujarat,Kheda,Nadiad,"22,98,934","4,215",541,GJ17,Kheda
+Gujarat,Kutch,Bhuj,"20,90,313","45,652",46,GJ18,Kachchh
+Gujarat,Mahisagar,Lunavada,"9,94,624","2,500",440,GJ19,Mahisagar
+Gujarat,Mehsana,Mehsana,"20,27,727","4,386",462,GJ20,Mahesana
+Gujarat,Morbi,Morbi,"9,60,329","4,871",197,GJ21,Morbi
+Gujarat,Narmada,Rajpipla,"5,90,379","2,749",214,GJ22,Narmada
+Gujarat,Navsari,Navsari,"13,30,711","2,211",602,GJ23,Navsari
+Gujarat,Panchmahal,Godhra,"23,88,267","5,219",458,GJ24,Panch Mahals
+Gujarat,Patan,Patan,"13,42,746","5,738",234,GJ25,Patan
+Gujarat,Porbandar,Porbandar,"5,86,062","2,294",255,GJ26,Porbandar
+Gujarat,Rajkot,Rajkot,"31,57,676","11,203",282,GJ27,Rajkot
+Gujarat,Sabarkantha,Himatnagar,"24,27,346","7,390",328,GJ28,Sabar Kantha
+Gujarat,Surat,Surat,"60,81,322","4,418",953,GJ29,Surat
+Gujarat,Surendranagar,Surendranagar,"17,55,873","10,489",167,GJ30,Surendranagar
+Gujarat,Tapi,Vyara,"8,06,489","3,435",249,GJ31,Tapi
+Gujarat,Vadodara,Vadodara,"36,39,775","7,794",467,GJ32,Vadodara
+Gujarat,Valsad,Valsad,"17,03,068","3,034",561,GJ33,Valsad
+Haryana,Ambala,Ambala,"11,36,784","1,569",722,HR01,Ambala
+Haryana,Bhiwani,Bhiwani,"16,29,109","5,140",341,HR02,Bhiwani
+Haryana,Charkhi Dadri,Charkhi Dadri,"5,02,276","1,370",367,HR03,Charkhi Dadri
+Haryana,Faridabad,Faridabad,"17,98,954",783,"2,298",HR04,Faridabad
+Haryana,Fatehabad,Fatehabad,"9,41,522","2,538",371,HR05,Fatehabad
+Haryana,Gurgaon,Gurgaon,"15,14,085","1,258","1,241",HR06,Gurugram
+Haryana,Hissar,Hissar,"17,42,815","3,788",438,HR07,Hisar
+Haryana,Jhajjar,Jhajjar,"9,56,907","1,868",522,HR08,Jhajjar
+Haryana,Jind,Jind,"13,32,042","2,702",493,HR09,Jind
+Haryana,Kaithal,Kaithal,"10,72,861","2,799",467,HR10,Kaithal
+Haryana,Karnal,Karnal,"15,06,323","2,471",598,HR11,Karnal
+Haryana,Kurukshetra,Kurukshetra,"9,64,231","1,530",630,HR12,Kurukshetra
+Haryana,Mahendragarh,Narnaul,"9,21,680","1,900",485,HR13,Mahendragarh
+Haryana,Nuh,Nuh,"10,89,406","1,765",729,HR14,Mewat
+Haryana,Palwal,Palwal,"10,40,493","1,367",761,HR15,Palwal
+Haryana,Panchkula,Panchkula,"5,58,890",816,622,HR16,Panchkula
+Haryana,Panipat,Panipat,"12,02,811","1,250",949,HR17,Panipat
+Haryana,Rewari,Rewari,"8,96,129","1,559",562,HR18,Rewari
+Haryana,Rohtak,Rohtak,"10,58,683","1,668",607,HR19,Rohtak
+Haryana,Sirsa,Sirsa,"12,95,114","4,276",303,HR20,Sirsa
+Haryana,Sonipat,Sonipat,"14,80,080","2,260",697,HR21,Sonipat
+Haryana,Yamuna Nagar,Yamuna Nagar,"12,14,162","1,756",687,HR22,Yamunanagar
+Himachal Pradesh,Bilaspur,Bilaspur,"3,82,056","1,167",327,HP01,Bilaspur
+Himachal Pradesh,Chamba,Chamba,"5,18,844","6,528",80,HP02,Chamba
+Himachal Pradesh,Hamirpur,Hamirpur,"4,54,293","1,118",406,HP03,Hamirpur
+Himachal Pradesh,Kangra,Dharamshala,"15,07,223","5,739",263,HP04,Kangra
+Himachal Pradesh,Kinnaur,Reckong Peo,"84,298","6,401",13,HP05,Kinnaur
+Himachal Pradesh,Kullu,Kullu,"4,37,474","5,503",79,HP06,Kullu
+Himachal Pradesh,Lahaul and Spiti,Keylong,"31,528","13,835",2,HP07,Lahul And Spiti
+Himachal Pradesh,Mandi,Mandi,"9,99,518","3,950",253,HP08,Mandi
+Himachal Pradesh,Shimla,Shimla,"8,13,384","5,131",159,HP09,Shimla
+Himachal Pradesh,Sirmaur,Nahan,"5,30,164","2,825",188,HP10,Sirmaur
+Himachal Pradesh,Solan,Solan,"5,76,670","1,936",298,HP11,Solan
+Himachal Pradesh,Una,Una,"5,21,057","1,540",328,HP12,Una
+Jharkhand,Bokaro,Bokaro,"20,61,918","2,861",716,JH01,Bokaro
+Jharkhand,Chatra,Chatra,"10,42,304","3,700",275,JH02,Chatra
+Jharkhand,Deoghar,Deoghar,"14,91,879","2,479",602,JH03,Deoghar
+Jharkhand,Dhanbad,Dhanbad,"26,82,662","2,075","1,284",JH04,Dhanbad
+Jharkhand,Dumka,Dumka,"13,21,096","4,404",300,JH05,Dumka
+Jharkhand,East Singhbhum,Jamshedpur,"22,91,032","3,533",648,JH06,East Singhbhum
+Jharkhand,Garhwa,Garhwa,"13,22,387","4,064",327,JH07,Garhwa
+Jharkhand,Giridih,Giridih,"24,45,203","4,887",497,JH08,Giridih
+Jharkhand,Godda,Godda,"13,11,382","2,110",622,JH09,Godda
+Jharkhand,Gumla,Gumla,"10,25,656","5,327",193,JH10,Gumla
+Jharkhand,Hazaribag,Hazaribag,"17,34,005","4,302",403,JH11,Hazaribagh
+Jharkhand,Jamtara,Jamtara,"7,90,207","1,802",439,JH12,Jamtara
+Jharkhand,Khunti,Khunti,"5,30,299","2,467",215,JH13,Khunti
+Jharkhand,Koderma,Koderma,"7,17,169","1,312",427,JH14,Koderma
+Jharkhand,Latehar,Latehar,"7,25,673","3,630",200,JH15,Latehar
+Jharkhand,Lohardaga,Lohardaga,"4,61,738","1,494",310,JH16,Lohardaga
+Jharkhand,Pakur,Pakur,"8,99,200","1,805",498,JH17,Pakur
+Jharkhand,Palamu,Daltonganj,"19,36,319","5,082",381,JH18,Palamu
+Jharkhand,Ramgarh,Ramgarh,"9,49,159","1,212",684,JH19,Ramgarh
+Jharkhand,Ranchi,Ranchi,"29,12,022","7,974",557,JH20,Ranchi
+Jharkhand,Sahibganj,Sahebganj,"11,50,038","1,599",719,JH21,Sahebganj
+Jharkhand,Seraikela Kharsawan,Seraikela,"10,63,458","2,725",390,JH22,Saraikela Kharsawan
+Jharkhand,Simdega,Simdega,"5,99,813","3,750",160,JH23,Simdega
+Jharkhand,West Singhbhum,Chaibasa,"15,01,619","7,186",209,JH24,West Singhbhum
+Karnataka,Bagalkot,Bagalkot,"18,90,826","6,583",288,KA01,Bagalkote
+Karnataka,Ballari,Ballari,"14,00,970","4,252",330,KA02,Ballari
+Karnataka,Belgaum,Belgaum,"47,78,439","13,415",356,KA05,Belagavi
+Karnataka,Bangalore Rural,Bangalore,"9,87,257","2,239",441,KA03,Bengaluru Rural
+Karnataka,Bangalore Urban,Bangalore,"95,88,910","2,190","4,378",KA04,Bengaluru Urban
+Karnataka,Bidar,Bidar,"17,00,018","5,448",312,KA06,Bidar
+Karnataka,Bijapur,Bijapur,"21,75,102","10,517",207,KA07,Vijayapura
+Karnataka,Chamarajanagara,Chamarajanagara,"10,20,962","5,102",200,KA08,Chamarajanagara
+Karnataka,Chikkaballapura,Chikkaballapura,"12,54,377","4,208",298,KA09,Chikkaballapura
+Karnataka,Chikmagalur,Chikmagalur,"11,37,753","7,201",158,KA10,Chikkamagaluru
+Karnataka,Chitradurga,Chitradurga,"16,60,378","8,437",197,KA11,Chitradurga
+Karnataka,Dakshina Kannada,Mangaluru,"20,83,625","4,559",457,KA12,Dakshina Kannada
+Karnataka,Davanagere,Davangere,"16,43,494","4,460",370,KA13,Davanagere
+Karnataka,Dharwad,Dharwad,"18,46,993","4,265",434,KA14,Dharwad
+Karnataka,Gadag,Gadag-Betageri,"10,65,235","4,651",229,KA15,Gadag
+Karnataka,Gulbarga,Gulbarga,"25,64,892","10,990",233,KA16,Kalaburagi
+Karnataka,Hassan,Hassan,"17,76,221","6,814",261,KA17,Hassan
+Karnataka,Haveri,Haveri,"15,98,506","4,825",331,KA18,Haveri
+Karnataka,Kodagu,Madikeri,"5,54,762","4,102",135,KA19,Kodagu
+Karnataka,Kolar,Kolar,"15,40,231","4,012",384,KA20,Kolar
+Karnataka,Koppal,Koppal,"13,91,292","5,565",250,KA21,Koppal
+Karnataka,Mandya,Mandya,"18,08,680","4,961",365,KA22,Mandya
+Karnataka,Mysore,Mysore,"29,94,744","6,854",437,KA23,Mysuru
+Karnataka,Raichur,Raichur,"19,24,773","6,839",228,KA24,Raichur
+Karnataka,Ramanagara,Ramanagara,"10,82,739","3,573",303,KA25,Ramanagara
+Karnataka,Shimoga,Shimoga,"17,55,512","8,495",207,KA26,Shivamogga
+Karnataka,Tumakuru,Tumakuru,"26,81,449","10,598",253,KA27,Tumakuru
+Karnataka,Udupi,Udupi,"11,77,908","3,879",304,KA28,Udupi
+Karnataka,Uttara Kannada,Karwar,"13,53,299","10,291",132,KA29,Uttara Kannada
+Karnataka,Vijayanagara,Hospete,"13,53,628","5,644",240,KA30,Vijayanagara
+Karnataka,Yadgir,Yadgir,"11,72,985","5,225",224,KA31,Yadgir
+Kerala,Alappuzha,Alappuzha,"21,21,943","1,415","1,501",KL01,Alappuzha
+Kerala,Ernakulam,Kakkanad,"32,79,860","3,063","1,069",KL02,Ernakulam
+Kerala,Idukki,Painavu,"11,07,453","4,356",254,KL03,Idukki
+Kerala,Kannur,Kannur,"25,25,637","2,961",852,KL04,Kannur
+Kerala,Kasaragod,Kasaragod,"13,02,600","1,989",654,KL05,Kasaragod
+Kerala,Kollam,Kollam,"26,29,703","2,483","1,056",KL06,Kollam
+Kerala,Kottayam,Kottayam,"19,79,384","2,206",896,KL07,Kottayam
+Kerala,Kozhikode,Kozhikode,"30,89,543","2,345","1,318",KL08,Kozhikode
+Kerala,Malappuram,Malappuram,"41,10,956","3,554","1,058",KL09,Malappuram
+Kerala,Palakkad,Palakkad,"28,10,892","4,482",627,KL10,Palakkad
+Kerala,Pathanamthitta,Pathanamthitta,"11,95,537","2,652",453,KL11,Pathanamthitta
+Kerala,Thrissur,Thrissur,"31,10,327","3,027","1,026",KL13,Thrissur
+Kerala,Thiruvananthapuram,Thiruvananthapuram,"33,07,284","2,189","1,509",KL12,Thiruvananthapuram
+Kerala,Wayanad,Kalpetta,"8,16,558","2,130",383,KL14,Wayanad
+Madhya Pradesh,Agar Malwa,Agar,"5,71,275","2,785",205,MP01,Agar Malwa
+Madhya Pradesh,Alirajpur,Alirajpur,"7,28,677","3,182",229,MP02,Alirajpur
+Madhya Pradesh,Anuppur,Anuppur,"7,49,521","3,747",200,MP03,Anuppur
+Madhya Pradesh,Ashok Nagar,Ashok Nagar,"8,44,979","4,674",181,MP04,Ashoknagar
+Madhya Pradesh,Balaghat,Balaghat,"17,01,156","9,229",184,MP05,Balaghat
+Madhya Pradesh,Barwani,Barwani,"13,85,659","5,432",256,MP06,Barwani
+Madhya Pradesh,Betul,Betul,"15,75,247","10,043",157,MP07,Betul
+Madhya Pradesh,Bhind,Bhind,"17,03,562","4,459",382,MP08,Bhind
+Madhya Pradesh,Bhopal,Bhopal,"23,68,145","2,772",854,MP09,Bhopal
+Madhya Pradesh,Burhanpur,Burhanpur,"7,56,993","3,427",221,MP10,Burhanpur
+Madhya Pradesh,Chachaura,Chachaura,"3,70,000","1,850",200,MP11,Chachaura
+Madhya Pradesh,Chhatarpur,Chhatarpur,"17,62,857","8,687",203,MP12,Chhatarpur
+Madhya Pradesh,Chhindwara,Chhindwara,"20,90,306","11,815",177,MP13,Chhindwara
+Madhya Pradesh,Damoh,Damoh,"12,63,703","7,306",173,MP14,Damoh
+Madhya Pradesh,Datia,Datia,"7,86,375","2,694",292,MP15,Datia
+Madhya Pradesh,Dewas,Dewas,"15,63,107","7,020",223,MP16,Dewas
+Madhya Pradesh,Dhar,Dhar,"21,84,672","8,153",268,MP17,Dhar
+Madhya Pradesh,Dindori,Dindori,"7,04,218","7,427",94,MP18,Dindori
+Madhya Pradesh,Guna,Guna,"12,40,938","6,485",194,MP19,Guna
+Madhya Pradesh,Gwalior,Gwalior,"20,30,543","5,465",445,MP20,Gwalior
+Madhya Pradesh,Harda,Harda,"5,70,302","3,339",171,MP21,Harda
+Madhya Pradesh,Hoshangabad,Hoshangabad,"12,40,975","6,698",185,MP22,Hoshangabad
+Madhya Pradesh,Indore,Indore,"32,72,335","3,898",839,MP23,Indore
+Madhya Pradesh,Jabalpur,Jabalpur,"24,60,714","5,210",472,MP24,Jabalpur
+Madhya Pradesh,Jhabua,Jhabua,"10,24,091","6,782",285,MP25,Jhabua
+Madhya Pradesh,Katni,Katni,"12,91,684","4,947",261,MP26,Katni
+Madhya Pradesh,Khandwa (East Nimar),Khandwa,"13,09,443","7,349",178,MP27,East Nimar
+Madhya Pradesh,Khargone (West Nimar),Khargone,"18,72,413","8,010",233,MP28,Khargone
+Madhya Pradesh,Maihar,Maihar,,,,MP29,Maihar
+Madhya Pradesh,Mandla,Mandla,"10,53,522","5,805",182,MP30,Mandla
+Madhya Pradesh,Mandsaur,Mandsaur,"13,39,832","5,530",242,MP31,Mandsaur
+Madhya Pradesh,Morena,Morena,"19,65,137","4,991",394,MP32,Morena
+Madhya Pradesh,Narsinghpur,Narsinghpur,"10,92,141","5,133",213,MP34,Narsinghpur
+Madhya Pradesh,Nagda,Nagda,,,,MP33,Nagda
+Madhya Pradesh,Neemuch,Neemuch,"8,25,958","4,267",194,MP35,Neemuch
+Madhya Pradesh,Niwari,Niwari,"4,04,807","1,170",345,MP36,Niwari
+Madhya Pradesh,Panna,Panna,"10,16,028","7,135",142,MP37,Panna
+Madhya Pradesh,Raisen,Raisen,"13,31,699","8,466",157,MP38,Raisen
+Madhya Pradesh,Rajgarh,Rajgarh,"15,46,541","6,143",251,MP39,Rajgarh
+Madhya Pradesh,Ratlam,Ratlam,"14,54,483","4,861",299,MP40,Ratlam
+Madhya Pradesh,Rewa,Rewa,"23,63,744","6,314",374,MP41,Rewa
+Madhya Pradesh,Sagar,Sagar,"23,78,295","10,252",272,MP42,Sagar
+Madhya Pradesh,Satna,Satna,"22,28,619","7,502",297,MP43,Satna
+Madhya Pradesh,Sehore,Sehore,"13,11,008","6,578",199,MP44,Sehore
+Madhya Pradesh,Seoni,Seoni,"13,78,876","8,758",157,MP45,Seoni
+Madhya Pradesh,Shahdol,Shahdol,"10,64,989","6,205",172,MP46,Shahdol
+Madhya Pradesh,Shajapur,Shajapur,"15,12,353","6,196",244,MP47,Shajapur
+Madhya Pradesh,Sheopur,Sheopur,"6,87,952","6,585",104,MP48,Sheopur
+Madhya Pradesh,Shivpuri,Shivpuri,"17,25,818","10,290",168,MP49,Shivpuri
+Madhya Pradesh,Sidhi,Sidhi,"11,26,515","10,520",232,MP50,Sidhi
+Madhya Pradesh,Singrauli,Waidhan,"11,78,132","5,672",208,MP51,Singrauli
+Madhya Pradesh,Tikamgarh,Tikamgarh,"14,44,920","5,055",286,MP52,Tikamgarh
+Madhya Pradesh,Ujjain,Ujjain,"19,86,864","6,091",356,MP53,Ujjain
+Madhya Pradesh,Umaria,Umaria,"6,43,579","4,062",158,MP54,Umaria
+Madhya Pradesh,Vidisha,Vidisha,"14,58,212","7,362",198,MP55,Vidisha
+Maharashtra,Ahmednagar,Ahmednagar,"45,43,083","17,048",266,MH01,Ahmednagar
+Maharashtra,Akola,Akola,"18,18,617","5,429",321,MH02,Akola
+Maharashtra,Amravati,Amravati,"28,87,826","12,235",237,MH03,Amravati
+Maharashtra,Aurangabad,Aurangabad,"36,95,928","10,107",365,MH04,Aurangabad
+Maharashtra,Beed,Beed,"25,85,962","10,693",242,MH05,Beed
+Maharashtra,Bhandara,Bhandara,"11,98,810","3,890",293,MH06,Bhandara
+Maharashtra,Buldhana,Buldhana,"25,88,039","9,661",268,MH07,Buldhana
+Maharashtra,Chandrapur,Chandrapur,"21,94,262","11,443",192,MH08,Chandrapur
+Maharashtra,Dhule,Dhule,"20,48,781","8,095",285,MH09,Dhule
+Maharashtra,Gadchiroli,Gadchiroli,"10,71,795","14,412",74,MH10,Gadchiroli
+Maharashtra,Gondia,Gondia,"13,22,331","5,431",253,MH11,Gondia
+Maharashtra,Hingoli,Hingoli,"11,78,973","4,526",244,MH12,Hingoli
+Maharashtra,Jalgaon,Jalgaon,"42,24,442","11,765",359,MH13,Jalgaon
+Maharashtra,Jalna,Jalna,"19,58,483","7,718",255,MH14,Jalna
+Maharashtra,Kolhapur,Kolhapur,"38,74,015","7,685",504,MH15,Kolhapur
+Maharashtra,Latur,Latur,"24,55,543","7,157",343,MH16,Latur
+Maharashtra,Mumbai City,Mumbai,"31,45,966",157,"20,036",MH17,Mumbai
+Maharashtra,Mumbai suburban,Bandra (East),"93,32,481",446,"21,000",MH18,Mumbai suburban
+Maharashtra,Nanded,Nanded,"33,56,566","10,528",319,MH20,Nanded
+Maharashtra,Nandurbar,Nandurbar,"16,46,177","5,055",276,MH21,Nandurbar
+Maharashtra,Nagpur,Nagpur,"46,53,171","9,892",470,MH19,Nagpur
+Maharashtra,Nashik,Nashik,"61,09,052","15,539",393,MH22,Nashik
+Maharashtra,Osmanabad,Osmanabad,"16,60,311","7,569",219,MH23,Osmanabad
+Maharashtra,Palghar,Palghar,"29,90,116","5,344",560,MH24,Palghar
+Maharashtra,Parbhani,Parbhani,"18,35,982","6,511",295,MH25,Parbhani
+Maharashtra,Pune,Pune,"94,26,959","15,643",603,MH26,Pune
+Maharashtra,Raigad,Alibag,"26,35,394","7,152",368,MH27,Raigad
+Maharashtra,Ratnagiri,Ratnagiri,"16,12,672","8,208",196,MH28,Ratnagiri
+Maharashtra,Sangli,Sangli,"28,20,575","8,572",329,MH29,Sangli
+Maharashtra,Satara,Satara,"30,03,922","10,475",287,MH30,Satara
+Maharashtra,Sindhudurg,Oros,"8,48,868","5,207",163,MH31,Sindhudurg
+Maharashtra,Solapur,Solapur,"43,15,527","14,895",290,MH32,Solapur
+Maharashtra,Thane,Thane,"80,70,032","4,214","1,915",MH33,Thane
+Maharashtra,Wardha,Wardha,"12,96,157","6,309",205,MH34,Wardha
+Maharashtra,Washim,Washim,"11,96,714","5,155",244,MH35,Washim
+Maharashtra,Yavatmal,Yavatmal,"27,75,457","13,582",204,MH36,Yavatmal
+Manipur,Bishnupur,Bishnupur,"2,40,363",496,415,MN01,Bishnupur
+Manipur,Chandel,Chandel,"1,44,028","3,317",37,MN02,Chandel
+Manipur,Churachandpur,Churachandpur,"2,71,274","4,574",50,MN03,Churachandpur
+Manipur,Imphal East,Porompat,"4,52,661",710,555,MN04,Imphal East
+Manipur,Imphal West,Lamphelpat,"5,14,683",519,847,MN05,Imphal West
+Manipur,Jiribam,Jiribam,"43,818",232,190,MN06,Jiribam
+Manipur,Kakching,Kakching,"1,35,481",,,MN07,Kakching
+Manipur,Kamjong,Kamjong,"45,616","2,000",23,MN08,Kamjong
+Manipur,Kangpokpi,Kangpokpi,"1,93,744","1,698",,MN09,Kangpokpi
+Manipur,Noney,Noney (Longmai),,,,MN10,Noney
+Manipur,Pherzawl,Pherzawl,"47,250","2,285",21,MN11,Pherzawl
+Manipur,Senapati,Senapati,"3,54,772","3,269",116,MN12,Senapati
+Manipur,Tamenglong,Tamenglong,"1,40,143","4,391",25,MN13,Tamenglong
+Manipur,Tengnoupal,Tengnoupal,,,,MN14,Tengnoupal
+Manipur,Thoubal,Thoubal,"4,20,517",514,713,MN15,Thoubal
+Manipur,Ukhrul,Ukhrul,"1,83,115","4,547",31,MN16,Ukhrul
+Meghalaya,East Garo Hills,Williamnagar,"3,17,618","2,603",121,ML01,East Garo Hills
+Meghalaya,East Khasi Hills,Shillong,"8,24,059","2,752",292,ML03,East Khasi Hills
+Meghalaya,East Jaintia Hills,Khliehriat,"1,22,436","2,115",58,ML02,East Jaintia Hills
+Meghalaya,North Garo Hills,Resubelpara,"1,18,325","1,113",106,ML04,North Garo Hills
+Meghalaya,Ri Bhoi,Nongpoh,"2,58,380","2,378",109,ML05,Ribhoi
+Meghalaya,South Garo Hills,Baghmara,"1,42,574","1,850",77,ML06,South Garo Hills
+Meghalaya,South West Garo Hills,Ampati,"1,72,495",822,210,ML07,South West Garo Hills
+Meghalaya,South West Khasi Hills,Mawkyrwat,"1,10,152","1,341",82,ML08,South West Khasi Hills
+Meghalaya,West Jaintia Hills,Jowai,"2,70,352","1,693",160,ML10,West Jaintia Hills
+Meghalaya,West Garo Hills,Tura,"6,42,923","3,714",173,ML09,West Garo Hills
+Meghalaya,West Khasi Hills,Nongstoin,"3,85,601","5,247",73,ML11,West Khasi Hills
+Mizoram,Aizawl,Aizawl,"4,04,054","3,577",113,MZ01,Aizawl
+Mizoram,Champhai,Champhai,"1,25,370","3,168",39,MZ02,Champhai
+Mizoram,Hnahthial,Hnahthial,,,,MZ03,Hnahthial
+Mizoram,Khawzawl,Khawzawl,,,,MZ04,Khawzawl
+Mizoram,Kolasib,Kolasib,"83,054","1,386",60,MZ05,Kolasib
+Mizoram,Lawngtlai,Lawngtlai,"1,17,444","2,519",46,MZ06,Lawngtlai
+Mizoram,Lunglei,Lunglei,"1,54,094","4,572",34,MZ07,Lunglei
+Mizoram,Mamit,Mamit,"85,757","2,967",28,MZ08,Mamit
+Mizoram,Saiha,Saiha,"56,366","1,414",40,MZ09,Saiha
+Mizoram,Saitual,Saitual,,,,MZ10,Saitual
+Mizoram,Serchhip,Serchhip,"64,875","1,424",46,MZ11,Serchhip
+Nagaland,Dimapur,Dimapur,"3,79,769",926,410,NL01,Dimapur
+Nagaland,Kiphire,Kiphire,"74,033","1,255",66,NL02,Kiphire
+Nagaland,Kohima,Kohima,"2,70,063","1,041",213,NL03,Kohima
+Nagaland,Longleng,Longleng,"50,593",885,89,NL04,Longleng
+Nagaland,Mokokchung,Mokokchung,"1,93,171","1,615",120,NL05,Mokokchung
+Nagaland,Mon,Mon,"2,59,604","1,786",145,NL06,Mon
+Nagaland,Noklak,Noklak,"59,300","1,152",51,NL07,Noklak
+Nagaland,Peren,Peren,"1,63,294","2,300",55,NL08,Peren
+Nagaland,Phek,Phek,"1,63,294","2,026",81,NL09,Phek
+Nagaland,Tuensang,Tuensang,"4,14,801","4,228",98,NL10,Tuensang
+Nagaland,Wokha,Wokha,"1,66,239","1,628",120,NL11,Wokha
+Nagaland,Zunheboto,Zunheboto,"1,41,014","1,255",112,NL12,Zunheboto
+Odisha,Angul,Angul,"12,71,703","6,232",199,OR01,Anugul
+Odisha,Boudh (Bauda),Boudh,"4,39,917","3,098",142,OR06,Boudh
+Odisha,Bhadrak,Bhadrak,"15,06,522","2,505",601,OR05,Bhadrak
+Odisha,Balangir,Balangir,"16,48,574","6,575",251,OR02,Balangir
+Odisha,Bargarh (Baragarh),Bargarh,"14,78,833","5,837",253,OR04,Bargarh
+Odisha,Balasore,Balasore,"23,17,419","3,634",609,OR03,Baleshwar
+Odisha,Cuttack,Cuttack,"26,18,708","3,932",666,OR07,Cuttack
+Odisha,Debagarh (Deogarh),Debagarh,"3,12,164","2,781",106,OR08,Deogarh
+Odisha,Dhenkanal,Dhenkanal,"11,92,948","4,452",268,OR09,Dhenkanal
+Odisha,Ganjam,Chhatrapur,"35,20,151","8,071",429,OR11,Ganjam
+Odisha,Gajapati,Paralakhemundi,"5,75,880","3,850",133,OR10,Gajapati
+Odisha,Jharsuguda,Jharsuguda,"5,79,499","2,081",274,OR14,Jharsuguda
+Odisha,Jajpur,Panikoili,"18,26,275","2,888",630,OR13,Jajapur
+Odisha,Jagatsinghpur,Jagatsinghpur,"11,36,604","1,759",681,OR12,Jagatsinghapur
+Odisha,Khordha,Khordha,"22,46,341","2,888",799,OR19,Khordha
+Odisha,Kendujhar,Kendujhar,"18,02,777","8,240",217,OR18,Kendujhar
+Odisha,Kalahandi,Bhawanipatna,"15,73,054","7,920",199,OR15,Kalahandi
+Odisha,Kandhamal,Phulbani,"7,31,952","8,021",91,OR16,Kandhamal
+Odisha,Koraput,Koraput,"13,76,934","8,807",156,OR20,Koraput
+Odisha,Kendrapara,Kendrapara,"14,39,891","2,644",545,OR17,Kendrapara
+Odisha,Malkangiri,Malkangiri,"6,12,727","5,791",106,OR21,Malkangiri
+Odisha,Mayurbhanj,Baripada,"25,13,895","10,418",241,OR22,Mayurbhanj
+Odisha,Nabarangpur,Nabarangpur,"12,18,762","5,294",230,OR23,Nabarangpur
+Odisha,Nuapada,Nuapada,"6,06,490","3,408",157,OR25,Nuapada
+Odisha,Nayagarh,Nayagarh,"9,62,215","3,890",247,OR24,Nayagarh
+Odisha,Puri,Puri,"16,97,983","3,051",488,OR26,Puri
+Odisha,Rayagada,Rayagada,"9,61,959","7,585",136,OR27,Rayagada
+Odisha,Sambalpur,Sambalpur,"10,44,410","6,702",158,OR28,Sambalpur
+Odisha,Subarnapur (Sonepur),Subarnapur,"6,52,107","2,284",279,OR29,Sonepur
+Odisha,Sundargarh,Sundergarh,"20,80,664","9,712",214,OR30,Sundargarh
+Punjab,Amritsar,Amritsar,"24,90,891","2,673",932,PB01,Amritsar
+Punjab,Barnala,Barnala,"5,96,294","1,423",419,PB02,Barnala
+Punjab,Bathinda,Bathinda,"13,88,859","3,355",414,PB03,Bathinda
+Punjab,Firozpur,Firozpur,"20,26,831","5,334",380,PB07,Firozepur
+Punjab,Faridkot,Faridkot,"6,18,008","1,472",424,PB04,Faridkot
+Punjab,Fatehgarh Sahib,Fatehgarh Sahib,"5,99,814","1,180",508,PB05,Fatehgarh Sahib
+Punjab,Fazilka,Fazilka,"11,80,483","3,113",379,PB06,Fazilka
+Punjab,Gurdaspur,Gurdaspur,"22,99,026","3,542",649,PB08,Gurdaspur
+Punjab,Hoshiarpur,Hoshiarpur,"15,82,793","3,397",466,PB09,Hoshiarpur
+Punjab,Jalandhar,Jalandhar,"21,81,753","2,625",831,PB10,Jalandhar
+Punjab,Kapurthala,Kapurthala,"8,17,668","1,646",501,PB11,Kapurthala
+Punjab,Ludhiana,Ludhiana,"34,87,882","3,744",975,PB12,Ludhiana
+Punjab,Malerkotla,Malerkotla,,,,PB13,Malerkotla
+Punjab,Mansa,Mansa,"7,68,808","2,174",350,PB14,Mansa
+Punjab,Moga,Moga,"9,92,289","2,235",444,PB15,Moga
+Punjab,Sri Muktsar Sahib,Sri Muktsar Sahib,"9,02,702","2,596",348,PB22,Sri Muktsar Sahib
+Punjab,Pathankot,Pathankot,"6,26,154",929,674,PB16,Pathankot
+Punjab,Patiala,Patiala,"28,92,282","3,175",596,PB17,Patiala
+Punjab,Rupnagar,Rupnagar,"6,83,349","1,400",488,PB18,Rupnagar
+Punjab,Sahibzada Ajit Singh Nagar,Mohali,"9,86,147","1,188",830,PB19,Sas Nagar
+Punjab,Sangrur,Sangrur,"16,54,408","3,685",449,PB20,Sangrur
+Punjab,Shahid Bhagat Singh Nagar,Nawanshahr,"6,14,362","1,283",479,PB21,Shahid Bhagat Singh Nagar
+Punjab,Tarn Taran,Tarn Taran Sahib,"11,20,070","2,414",464,PB23,Tarn Taran
+Rajasthan,Ajmer,Ajmer,"25,84,913","8,481",305,RJ01,Ajmer
+Rajasthan,Alwar,Alwar,"36,71,999","8,380",438,RJ02,Alwar
+Rajasthan,Bikaner,Bikaner,"23,67,745","27,244",78,RJ08,Bikaner
+Rajasthan,Barmer,Barmer,"26,04,453","28,387",92,RJ05,Barmer
+Rajasthan,Banswara,Banswara,"17,98,194","5,037",399,RJ03,Banswara
+Rajasthan,Bharatpur,Bharatpur,"25,49,121","5,066",503,RJ06,Bharatpur
+Rajasthan,Baran,Baran,"12,23,921","6,955",175,RJ04,Baran
+Rajasthan,Bundi,Bundi,"11,13,725","5,550",193,RJ09,Bundi
+Rajasthan,Bhilwara,Bhilwara,"24,10,459","10,455",230,RJ07,Bhilwara
+Rajasthan,Churu,Churu,"20,41,172","16,830",148,RJ11,Churu
+Rajasthan,Chittorgarh,Chittorgarh,"15,44,392","10,856",193,RJ10,Chittorgarh
+Rajasthan,Dausa,Dausa,"16,37,226","3,429",476,RJ12,Dausa
+Rajasthan,Dholpur,Dholpur,"12,07,293","3,084",398,RJ13,Dholpur
+Rajasthan,Dungarpur,Dungarpur,"13,88,906","3,771",368,RJ14,Dungarpur
+Rajasthan,Sri Ganganagar,Sri Ganganagar,"19,69,520","10,990",179,RJ31,Ganganagar
+Rajasthan,Hanumangarh,Hanumangarh,"17,79,650","9,670",184,RJ15,Hanumangarh
+Rajasthan,Jhunjhunu,Jhunjhunu,"21,39,658","5,928",361,RJ20,Jhunjhunu
+Rajasthan,Jalore,Jalore,"18,30,151","10,640",172,RJ18,Jalore
+Rajasthan,Jodhpur,Jodhpur,"36,85,681","22,850",161,RJ21,Jodhpur
+Rajasthan,Jaipur,Jaipur,"66,63,971","11,152",598,RJ16,Jaipur
+Rajasthan,Jaisalmer,Jaisalmer,"6,72,008","38,401",17,RJ17,Jaisalmer
+Rajasthan,Jhalawar,Jhalawar,"14,11,327","6,219",227,RJ19,Jhalawar
+Rajasthan,Karauli,Karauli,"14,58,459","5,530",264,RJ22,Karauli
+Rajasthan,Kota,Kota,"19,50,491","5,446",374,RJ23,Kota
+Rajasthan,Nagaur,Nagaur,"33,09,234","17,718",187,RJ24,Nagaur
+Rajasthan,Pali,Pali,"20,38,533","12,387",165,RJ25,Pali
+Rajasthan,Pratapgarh,Pratapgarh,"8,67,848","4,112",211,RJ26,Pratapgarh
+Rajasthan,Rajsamand,Rajsamand,"11,58,283","3,853",302,RJ27,Rajsamand
+Rajasthan,Sikar,Sikar,"26,77,737","7,732",346,RJ29,Sikar
+Rajasthan,Sawai Madhopur,Sawai Madhopur,"13,38,114","4,500",257,RJ28,Sawai Madhopur
+Rajasthan,Sirohi,Sirohi,"10,37,185","5,136",202,RJ30,Sirohi
+Rajasthan,Tonk,Tonk,"14,21,711","7,194",198,RJ32,Tonk
+Rajasthan,Udaipur,Udaipur,"30,67,549","13,430",242,RJ33,Udaipur
+Sikkim,East Sikkim,Gangtok,"2,81,293",954,295,SK01,East
+Sikkim,North Sikkim,Mangan,"43,354","4,226",10,SK02,North
+Sikkim,South Sikkim,Namchi,"1,46,742",750,196,SK03,South
+Sikkim,West Sikkim,Gyalshing,"1,36,299","1,166",117,SK04,West
+Tamil Nadu,Ariyalur,Ariyalur,"7,52,481","3,208",387,TN01,Ariyalur
+Tamil Nadu,Chengalpattu,Chengalpattu,"25,56,244","2,945",868,TN02,Chengalpattu
+Tamil Nadu,Chennai,Chennai,"71,39,882",426,"17,000",TN03,Chennai
+Tamil Nadu,Coimbatore,Coimbatore,"34,72,578","4,723",748,TN04,Coimbatore
+Tamil Nadu,Cuddalore,Cuddalore,"26,00,880","3,999",702,TN05,Cuddalore
+Tamil Nadu,Dharmapuri,Dharmapuri,"15,02,900","4,532",332,TN06,Dharmapuri
+Tamil Nadu,Dindigul,Dindigul,"21,61,367","6,058",357,TN07,Dindigul
+Tamil Nadu,Erode,Erode,"22,59,608","5,714",397,TN08,Erode
+Tamil Nadu,Kallakurichi,Kallakurichi,"16,82,687","3,520",478,TN09,Kallakkurichi
+Tamil Nadu,Kanchipuram,Kanchipuram,"11,66,401","1,656",704,TN10,Kancheepuram
+Tamil Nadu,Kanyakumari,Nagercoil,"18,63,178","1,685","1,106",TN11,Kanniyakumari
+Tamil Nadu,Karur,Karur,"10,76,588","2,901",371,TN12,Karur
+Tamil Nadu,Krishnagiri,Krishnagiri,"18,83,731","5,086",370,TN13,Krishnagiri
+Tamil Nadu,Madurai,Madurai,"31,91,038","3,676",823,TN14,Madurai
+Tamil Nadu,Mayiladuthurai,Mayiladuthurai,"9,18,356","1,172",784,TN15,Mayiladuthurai
+Tamil Nadu,Nagapattinam,Nagapattinam,"16,14,069","2,716",668,TN16,Nagapattinam
+Tamil Nadu,Nilgiris,Ooty,"7,35,071","2,549",288,TN18,The Nilgiris
+Tamil Nadu,Namakkal,Namakkal,"17,21,179","3,429",506,TN17,Namakkal
+Tamil Nadu,Perambalur,Perambalur,"5,64,511","1,752",323,TN19,Perambalur
+Tamil Nadu,Pudukkottai,Pudukkottai,"19,18,725","4,651",348,TN20,Pudukkottai
+Tamil Nadu,Ramanathapuram,Ramanathapuram,"13,37,560","4,123",320,TN21,Ramanathapuram
+Tamil Nadu,Ranipet,Ranipet,"12,10,277","2,234",524,TN22,Ranipet
+Tamil Nadu,Salem,Salem,"34,80,008","5,245",663,TN23,Salem
+Tamil Nadu,Sivaganga,Sivaganga,"13,41,250","4,086",324,TN24,Sivaganga
+Tamil Nadu,Tenkasi,Tenkasi,"14,07,627","2,916",483,TN25,Tenkasi
+Tamil Nadu,Tiruppur,Tiruppur,"24,71,222","5,106",476,TN32,Tiruppur
+Tamil Nadu,Tiruchirappalli,Tiruchirappalli,"27,13,858","4,407",602,TN29,Tiruchirappalli
+Tamil Nadu,Theni,Theni,"12,43,684","3,066",433,TN27,Theni
+Tamil Nadu,Tirunelveli,Tirunelveli,"16,65,253","3,842",433,TN30,Tirunelveli
+Tamil Nadu,Thanjavur,Thanjavur,"24,02,781","3,397",691,TN26,Thanjavur
+Tamil Nadu,Thoothukudi,Thoothukudi,"17,38,376","4,594",378,TN28,Thoothukkudi
+Tamil Nadu,Tirupattur,Tirupattur,"11,11,812","1,798",618,TN31,Tirupathur
+Tamil Nadu,Tiruvallur,Tiruvallur,"37,25,697","3,424","1,049",TN33,Thiruvallur
+Tamil Nadu,Tiruvarur,Thiruvarur,"12,68,094","2,377",533,TN35,Thiruvarur
+Tamil Nadu,Tiruvannamalai,Tiruvannaamalai,"24,68,965","6,191",399,TN34,Tiruvannamalai
+Tamil Nadu,Vellore,Vellore,"16,14,242","2,080",776,TN36,Vellore
+Tamil Nadu,Viluppuram,Viluppuram,"20,93,003","3,725",562,TN37,Viluppuram
+Tamil Nadu,Virudhunagar,Virudhunagar,"19,43,309","3,446",454,TN38,Virudhunagar
+Telangana,Adilabad,Adilabad,"7,08,952","4,186",171,TG01,Adilabad
+Telangana,Komaram Bheem,Asifabad,"5,15,835","4,300",106,TG11,Kumuram Bheem Asifabad
+Telangana,Bhadradri Kothagudem,Kothagudem,"13,04,811","8,951",143,TG02,Bhadradri Kothagudem
+Telangana,Hyderabad,Hyderabad,"39,43,323",217,"18,172",TG03,Hyderabad
+Telangana,Jagtial,Jagtial,"9,83,414","3,043",407,TG04,Jagtial
+Telangana,Jangaon,Jangaon,"5,82,457","2,188",259,TG05,Jangaon
+Telangana,Jayashankar Bhupalpally,Bhupalpally,"7,12,257","6,362",115,TG06,Jaya Shankar Bhalupally
+Telangana,Jogulamba Gadwal,Gadwal,"6,64,971","2,928",208,TG07,Jogulamba Gadwal
+Telangana,Kamareddy,Kamareddy,"9,72,625","3,651",266,TG08,Kamareddy
+Telangana,Karimnagar,Karimnagar,"10,16,063","2,379",473,TG09,Karimnagar
+Telangana,Khammam,Khammam,"14,01,639","4,453",321,TG10,Khammam
+Telangana,Mahabubabad,Mahabubabad,"7,70,170","2,877",269,TG12,Mahabubabad
+Telangana,Mahbubnagar,Mahbubnagar,"13,18,110","4,037",281,TG13,Mahbubnagar
+Telangana,Mancherial,Mancherial,"8,07,037","4,056",201,TG14,Mancherial
+Telangana,Medak,Medak,"7,67,428","2,741",275,TG15,Medak
+Telangana,Medchal–Malkajgiri,Shamirpet,"25,42,203","5,006","2,251",TG16,Medchal Malkajgiri
+Telangana,Mulugu,Mulugu,"2,94,671","3,881",124,TG17,Mulugu
+Telangana,Nalgonda,Nalgonda,"16,31,399","2,450",227,TG19,Nalgonda
+Telangana,Narayanpet,Narayanpet,"5,66,874","2,336",243,TG20,Narayanpet
+Telangana,Nagarkurnool,Nagarkurnool,"8,93,308","6,545",124,TG18,Nagarkurnool
+Telangana,Nirmal,Nirmal,"7,09,415","3,563",185,TG21,Nirmal
+Telangana,Nizamabad,Nizamabad,"15,34,428","4,153",366,TG22,Nizamabad
+Telangana,Peddapalli,Peddapalli,"7,95,332","4,615",356,TG23,Peddapalle
+Telangana,Rajanna Sircilla,Sircilla,"5,46,121","2,031",273,TG24,Rajanna Sircilla
+Telangana,Ranga Reddy,Shamshabad,"25,51,731","1,038",486,TG25,Rangareddy
+Telangana,Sangareddy,Sangareddy,"15,27,628","4,465",347,TG26,Sangareddy
+Telangana,Siddipet,Siddipet,"9,93,376","3,425",279,TG27,Siddipet
+Telangana,Suryapet,Suryapet,"10,99,560","3,374",305,TG28,Suryapet
+Telangana,Vikarabad,Vikarabad,"8,81,250","3,385",274,TG29,Vikarabad
+Telangana,Wanaparthy,Wanaparthy,"7,51,553","2,938",268,TG30,Wanaparthy
+Telangana,Warangal Urban,Warangal,"11,35,707","1,305",826,TG32,Warangal Urban
+Telangana,Warangal Rural,Warangal,"7,16,457","2,176",330,TG31,Warangal Rural
+Telangana,Yadadri Bhuvanagiri,Bhongir,"7,26,465","3,091",239,TG33,Yadadri Bhuvanagiri
+Tripura,Dhalai,Ambassa,"3,77,988","2,400",157,TR01,Dhalai
+Tripura,Gomati,"Udaipur, Tripura","4,36,868","1,523",287,TR02,Gomati
+Tripura,Khowai,Khowai,"3,27,391","1,006",326,TR03,Khowai
+Tripura,North Tripura,Dharmanagar,"4,15,946","1,445",288,TR04,North Tripura
+Tripura,Sepahijala,Bishramganj,"4,84,233","1,045",463,TR05,Sepahijala
+Tripura,South Tripura,Belonia,"4,33,737","1,534",283,TR06,South Tripura
+Tripura,Unokoti,Kailashahar,"2,77,335",592,469,TR07,Unakoti
+Tripura,West Tripura,Agartala,"9,17,534",943,973,TR08,West Tripura
+Uttar Pradesh,Agra,Agra,"43,80,793","4,027","1,084",UP01,Agra
+Uttar Pradesh,Aligarh,Aligarh,"36,73,849","3,747","1,007",UP02,Aligarh
+Uttar Pradesh,Allahabad,Allahabad,"59,59,798","5,481","1,087",UP03,Prayagraj
+Uttar Pradesh,Ambedkar Nagar,Akbarpur,"23,98,709","2,372","1,021",UP04,Ambedkar Nagar
+Uttar Pradesh,Amethi,Gauriganj,"25,49,935","3,063",830,UP05,Amethi
+Uttar Pradesh,Amroha,Amroha,"18,38,771","2,321",818,UP06,Amroha
+Uttar Pradesh,Auraiya,Auraiya,"13,72,287","2,051",681,UP07,Auraiya
+Uttar Pradesh,Azamgarh,Azamgarh,"46,16,509","4,053","1,139",UP08,Azamgarh
+Uttar Pradesh,Bagpat,Baghpat,"13,02,156","1,345",986,UP09,Baghpat
+Uttar Pradesh,Bahraich,Bahraich,"23,84,239","4,926",415,UP10,Bahraich
+Uttar Pradesh,Ballia,Ballia,"32,23,642","2,981","1,081",UP11,Ballia
+Uttar Pradesh,Balrampur,Balrampur,"21,49,066","3,349",642,UP12,Balrampur
+Uttar Pradesh,Banda,Banda,"17,99,541","4,413",404,UP13,Banda
+Uttar Pradesh,Barabanki,Barabanki,"32,57,983","3,825",739,UP14,Bara Banki
+Uttar Pradesh,Bareilly,Bareilly,"44,65,344","4,120","1,084",UP15,Bareilly
+Uttar Pradesh,Basti,Basti,"24,61,056","2,687",916,UP16,Basti
+Uttar Pradesh,Bhadohi,Gyanpur,"15,54,203",960,"1,531",UP17,Bhadohi
+Uttar Pradesh,Bijnor,Bijnor,"36,83,896","4,561",808,UP18,Bijnor
+Uttar Pradesh,Budaun,Budaun,"37,12,738","5,168",718,UP19,Budaun
+Uttar Pradesh,Bulandshahr,Bulandshahr,"34,98,507","3,719",788,UP20,Bulandshahr
+Uttar Pradesh,Chandauli,Chandauli,"19,52,713","2,554",768,UP21,Chandauli
+Uttar Pradesh,Chitrakoot,Karwi,"9,90,626","3,202",315,UP22,Chitrakoot
+Uttar Pradesh,Deoria,Deoria,"30,98,637","2,535","1,220",UP23,Deoria
+Uttar Pradesh,Etah,Etah,"17,61,152","2,456",717,UP24,Etah
+Uttar Pradesh,Etawah,Etawah,"15,79,160","2,287",683,UP25,Etawah
+Uttar Pradesh,Faizabad,Faizabad,"24,68,371","2,765","1,054",UP26,Ayodhya
+Uttar Pradesh,Farrukhabad,Fatehgarh,"18,87,577","2,279",865,UP27,Farrukhabad
+Uttar Pradesh,Fatehpur,Fatehpur,"26,32,684","4,152",634,UP28,Fatehpur
+Uttar Pradesh,Firozabad,Firozabad,"24,96,761","2,361","1,044",UP29,Firozabad
+Uttar Pradesh,Gautam Buddh Nagar,Noida,"16,74,714","1,269","1,252",UP30,Gautam Buddha Nagar
+Uttar Pradesh,Ghaziabad,Ghaziabad,"46,61,452","1,175","3,967",UP31,Ghaziabad
+Uttar Pradesh,Ghazipur,Ghazipur,"36,22,727","3,377","1,072",UP32,Ghazipur
+Uttar Pradesh,Gonda,Gonda,"34,31,386","4,425",857,UP33,Gonda
+Uttar Pradesh,Gorakhpur,Gorakhpur,"44,36,275","3,325","1,336",UP34,Gorakhpur
+Uttar Pradesh,Hamirpur,Hamirpur,"11,04,021","4,325",268,UP35,Hamirpur
+Uttar Pradesh,Hapur,Hapur,"13,38,211",660,"2,028",UP36,Hapur
+Uttar Pradesh,Hardoi,Hardoi,"40,91,380","5,986",683,UP37,Hardoi
+Uttar Pradesh,Hathras,Hathras,"15,65,678","1,752",851,UP38,Hathras
+Uttar Pradesh,Jalaun,Orai,"16,70,718","4,565",366,UP39,Jalaun
+Uttar Pradesh,Jaunpur,Jaunpur,"44,76,072","4,038","1,108",UP40,Jaunpur
+Uttar Pradesh,Jhansi,Jhansi,"20,00,755","5,024",398,UP41,Jhansi
+Uttar Pradesh,Kannauj,Kannauj,"16,58,005","1,993",792,UP42,Kannauj
+Uttar Pradesh,Kanpur Dehat,Akbarpur,"17,95,092","3,021",594,UP43,Kanpur Dehat
+Uttar Pradesh,Kanpur Nagar,Kanpur,"45,72,951","3,156","1,415",UP44,Kanpur Nagar
+Uttar Pradesh,Kasganj,Kasganj,"14,38,156","1,955",736,UP45,Kasganj
+Uttar Pradesh,Kaushambi,Manjhanpur,"15,96,909","1,837",897,UP46,Kaushambi
+Uttar Pradesh,Kushinagar,Padrauna,"35,60,830","2,909","1,226",UP47,Kushinagar
+Uttar Pradesh,Lakhimpur Kheri,Lakhimpur,"40,13,634","7,674",523,UP48,Kheri
+Uttar Pradesh,Lalitpur,Lalitpur,"12,18,002","5,039",242,UP49,Lalitpur
+Uttar Pradesh,Lucknow,Lucknow,"45,88,455","2,528","1,815",UP50,Lucknow
+Uttar Pradesh,Maharajganj,Maharajganj,"26,65,292","2,953",903,UP51,Maharajganj
+Uttar Pradesh,Mahoba,Mahoba,"8,76,055","2,847",288,UP52,Mahoba
+Uttar Pradesh,Mainpuri,Mainpuri,"18,47,194","2,760",670,UP53,Mainpuri
+Uttar Pradesh,Mathura,Mathura,"25,41,894","3,333",761,UP54,Mathura
+Uttar Pradesh,Mau,Mau,"22,05,170","1,713","1,287",UP55,Mau
+Uttar Pradesh,Meerut,Meerut,"34,47,405","2,522","1,342",UP56,Meerut
+Uttar Pradesh,Mirzapur,Mirzapur,"24,94,533","4,522",561,UP57,Mirzapur
+Uttar Pradesh,Moradabad,Moradabad,"47,73,138","3,718","1,284",UP58,Moradabad
+Uttar Pradesh,Muzaffarnagar,Muzaffarnagar,"41,38,605","4,008","1,033",UP59,Muzaffarnagar
+Uttar Pradesh,Pilibhit,Pilibhit,"20,37,225","3,499",567,UP60,Pilibhit
+Uttar Pradesh,Pratapgarh,Pratapgarh,"31,73,752","3,717",854,UP61,Pratapgarh
+Uttar Pradesh,Raebareli,Raebareli,"34,04,004","4,609",739,UP62,Rae Bareli
+Uttar Pradesh,Rampur,Rampur,"23,35,398","2,367",987,UP63,Rampur
+Uttar Pradesh,Saharanpur,Saharanpur,"34,64,228","3,689",939,UP64,Saharanpur
+Uttar Pradesh,Sambhal,Sambhal,"22,17,020","2,453",890,UP65,Sambhal
+Uttar Pradesh,Sant Kabir Nagar,Khalilabad,"17,14,300","1,442","1,014",UP66,Sant Kabeer Nagar
+Uttar Pradesh,Shahjahanpur,Shahjahanpur,"30,02,376","4,575",673,UP67,Shahjahanpur
+Uttar Pradesh,Shamli,Shamli,"12,74,815","1,063","1,200",UP68,Shamli
+Uttar Pradesh,Shravasti,Shravasti,"11,14,615","1,948",572,UP69,Shravasti
+Uttar Pradesh,Siddharthnagar,Naugarh,"25,53,526","2,751",882,UP70,Siddharthnagar
+Uttar Pradesh,Sitapur,Sitapur,"44,74,446","5,743",779,UP71,Sitapur
+Uttar Pradesh,Sonbhadra,Robertsganj,"18,62,612","6,788",274,UP72,Sonbhadra
+Uttar Pradesh,Sultanpur,Sultanpur,"37,90,922","4,436",855,UP73,Sultanpur
+Uttar Pradesh,Unnao,Unnao,"31,10,595","4,561",682,UP74,Unnao
+Uttar Pradesh,Varanasi,Varanasi,"36,82,194","1,535","2,399",UP75,Varanasi
+Uttarakhand,Almora,Almora,"6,21,927","3,090",198,UK01,Almora
+Uttarakhand,Bageshwar,Bageshwar,"2,59,840","2,310",116,UK02,Bageshwar
+Uttarakhand,Chamoli,Gopeshwar,"3,91,114","7,692",49,UK03,Chamoli
+Uttarakhand,Champawat,Champawat,"2,59,315","1,781",147,UK04,Champawat
+Uttarakhand,Dehradun,Dehradun,"16,98,560","3,088",550,UK05,Dehradun
+Uttarakhand,Haridwar,Haridwar,"19,27,029","2,360",817,UK06,Haridwar
+Uttarakhand,Nainital,Nainital,"9,55,128","3,853",225,UK07,Nainital
+Uttarakhand,Pauri Garhwal,Pauri,"6,86,527","5,438",129,UK08,Pauri Garhwal
+Uttarakhand,Pithoragarh,Pithoragarh,"4,85,993","7,110",69,UK09,Pithoragarh
+Uttarakhand,Rudraprayag,Rudraprayag,"2,36,857","1,896",119,UK10,Rudraprayag
+Uttarakhand,Tehri Garhwal,New Tehri,"6,16,409","4,085",169,UK11,Tehri Garhwal
+Uttarakhand,Udham Singh Nagar,Rudrapur,"16,48,367","2,912",648,UK12,Udham Singh Nagar
+Uttarakhand,Uttarkashi,Uttarkashi,"3,29,686","7,951",41,UK13,Uttarkashi
+West Bengal,Alipurduar,Alipurduar,"15,01,983","3,136",479,WB01,Alipurduar
+West Bengal,Bankura,Bankura,"35,96,292","6,882",523,WB02,Bankura
+West Bengal,Paschim Bardhaman,Asansol,"28,82,031","1,603","1,798",WB17,Paschim Bardhaman
+West Bengal,Purba Bardhaman,Bardhaman,"48,35,532","5,433",890,WB19,Purba Bardhaman
+West Bengal,Birbhum,Suri,"35,02,387","4,545",771,WB03,Birbhum
+West Bengal,Cooch Behar,Cooch Behar,"28,22,780","3,387",833,WB04,Koch Bihar
+West Bengal,Dakshin Dinajpur,Balurghat,"16,70,931","2,183",753,WB05,Dakshin Dinajpur
+West Bengal,Darjeeling,Darjeeling,"15,95,181","2,093",762,WB06,Darjiling
+West Bengal,Hooghly,Chinsurah,"55,20,389","3,149","1,753",WB07,Hooghly
+West Bengal,Howrah,Howrah,"48,41,638","1,467","3,300",WB08,Howrah
+West Bengal,Jalpaiguri,Jalpaiguri,"38,69,675","6,227",621,WB09,Jalpaiguri
+West Bengal,Jhargram,Jhargram,"11,36,548","3,038",374,WB10,Jhargram
+West Bengal,Kalimpong,Kalimpong,"2,51,642","1,054",239,WB11,Kalimpong
+West Bengal,Kolkata,Kolkata,"44,86,679",206,"24,252",WB12,Kolkata
+West Bengal,Maldah,English Bazar,"39,97,970","3,733","1,071",WB13,Maldah
+West Bengal,Murshidabad,Baharampur,"71,02,430","5,324","1,334",WB14,Murshidabad
+West Bengal,Nadia,Krishnanagar,"51,68,488","3,927","1,316",WB15,Nadia
+West Bengal,North 24 Parganas,Barasat,"1,00,82,852","4,094","2,463",WB16,North Twenty Four Parganas
+West Bengal,Paschim Medinipur,Midnapore,"47,76,909","6,308",757,WB18,Paschim Medinipur
+West Bengal,Purba Medinipur,Tamluk,"50,95,875","4,736","1,076",WB20,Purba Medinipur
+West Bengal,Purulia,Purulia,"29,27,965","6,259",468,WB21,Purulia
+West Bengal,South 24 Parganas,Alipore,"81,61,961","9,960",819,WB22,South Twenty Four Parganas
+West Bengal,Uttar Dinajpur,Raiganj,"30,00,849","3,180",956,WB23,Uttar Dinajpur
+Andaman & Nicobar Islands,Nicobar,Car Nicobar,"36,842","1,841",20,AN01,Nicobars
+Andaman & Nicobar Islands,North and Middle Andaman,Mayabunder,"1,05,597","3,736",28,AN02,North and Middle Andaman
+Andaman & Nicobar Islands,South Andaman,Port Blair,"2,38,142","2,672",89,AN03,South Andaman
+Chandigarh,Chandigarh,Chandigarh,"10,55,450",114,"9,258",CH01,Chandigarh
+Dadra & Nagar Haveli and Daman & Diu,Daman,Daman,"1,91,173",72,"2,651",DD02,Daman
+Dadra & Nagar Haveli and Daman & Diu,Diu,Diu,"52,074",39,"2,058",DD03,Diu
+Dadra & Nagar Haveli and Daman & Diu,Dadra and Nagar Haveli,Silvassa,"3,43,709",491,700,DD01,Dadra and Nagar Haveli
+Jammu & Kashmir,Anantnag,Anantnag,"10,70,144","2,853",375,JK01,Anantnag
+Jammu & Kashmir,Budgam,Budgam,"7,35,753","1,406",537,JK04,Budgam
+Jammu & Kashmir,Bandipora,Bandipore,"3,85,099","3,010",128,JK02,Bandipore
+Jammu & Kashmir,Baramulla,Baramulla,"10,15,503","3,329",305,JK03,Baramulla
+Jammu & Kashmir,Doda,Doda,"4,09,576","2,625",79,JK05,Doda
+Jammu & Kashmir,Ganderbal,Ganderbal,"2,97,003","1,979","1,151",JK06,Ganderbal
+Jammu & Kashmir,Jammu,Jammu,"15,26,406","3,097",596,JK07,Jammu
+Jammu & Kashmir,Kathua,Kathua,"6,15,711","2,651",232,JK08,Kathua
+Jammu & Kashmir,Kishtwar,Kishtwar,"2,30,696","7,737",30,JK09,Kishtwar
+Jammu & Kashmir,Kulgam,Kulgam,"4,22,786",457,925,JK10,Kulgam
+Jammu & Kashmir,Kupwara,Kupwara,"8,75,564","2,379",368,JK11,Kupwara
+Jammu & Kashmir,Poonch,Poonch,"4,76,820","1,674",285,JK12,Poonch
+Jammu & Kashmir,Pulwama,Pulwama,"5,70,060","1,398",598,JK13,Pulwama
+Jammu & Kashmir,Rajouri,Rajouri,"6,19,266","2,630",235,JK14,Rajouri
+Jammu & Kashmir,Ramban,Ramban,"2,83,313","1,330",213,JK15,Ramban
+Jammu & Kashmir,Reasi,Reasi,"3,14,714","1,710",184,JK16,Reasi
+Jammu & Kashmir,Samba,Samba,"3,18,611",913,318,JK17,Samba
+Jammu & Kashmir,Shopian,Shopian,"2,65,960",312,852,JK18,Shopian
+Jammu & Kashmir,Srinagar,Srinagar,"12,69,751","2,228",703,JK19,Srinagar
+Jammu & Kashmir,Udhampur,Udhampur,"5,55,357","4,550",211,JK20,Udhampur
+Ladakh,Kargil,Kargil,"1,43,388","14,036",10,LA01,Kargil
+Ladakh,Leh,Leh,"1,33,487","45,110",3,LA02,Leh Ladakh
+Lakshadweep,Lakshadweep,Kavaratti,"64,473",30,"2,149",LD01,Lakshadweep
+Delhi,Central Delhi,Daryaganj,"5,82,320",25,"27,730",DL01,Central
+Delhi,East Delhi,Preet Vihar,"17,09,346",440,"27,132",DL02,East
+Delhi,New Delhi,Connaught Place,"1,42,004",22,"4,057",DL03,New Delhi
+Delhi,North Delhi,Sadar Bazaar,"8,87,978",59,"14,557",DL04,North
+Delhi,North East Delhi,Seelampur,"22,41,624",52,"36,155",DL05,North East
+Delhi,North West Delhi,Kanjhawala,"36,56,539",130,"8,254",DL06,North West
+Delhi,Shahdara,Shahdara,,60,,DL07,Shahdara
+Delhi,South Delhi,Saket,"27,31,929",250,"11,060",DL08,South
+Delhi,South East Delhi,Defence Colony,,334,,DL09,South East Delhi
+Delhi,South West Delhi,Vasant Vihar,"22,92,958",395,"5,446",DL10,South West
+Delhi,West Delhi,Rajouri Garden,"25,43,243",112,"19,563",DL11,West
+Puducherry,Karaikal,Karaikal,"2,00,222",157,"1,275",PY01,Karaikal
+Puducherry,Mahé,Mahé,"41,816",9,"4,646",PY02,Mahe
+Puducherry,Puducherry,Pondicherry,"9,50,289",293,"3,232",PY03,Puducherry
+Puducherry,Yanam,Yanam,"55,626",30,"1,854",PY04,Yanam
